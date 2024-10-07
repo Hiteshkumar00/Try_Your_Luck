@@ -1,0 +1,48 @@
+
+
+.btn-form{
+  display: inline-block;
+}
+
+
+.disp-none{
+  display: none;
+}
+
+.navbar{
+  background-color: #ffffff;
+}
+
+.card{
+  border: none;
+  box-shadow:0px 0px 7px #00000055 !important;
+}
+
+.fa-chess-queen{
+  font-size: 1.9rem; 
+  color: #3A6D8C;
+}
+
+.navbar-brand-title{
+  color: #3A6D8C !important;
+  font-weight: 600;
+}
+
+.btn{
+  opacity: 0.8;
+}
+
+.btn:hover{
+  opacity: 0.9;
+}
+
+/* .user-img{
+  width: 100%;
+}
+
+.user-img-div{
+  object-fit: contain !important;
+}  */
+
+
+
