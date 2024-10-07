@@ -1,4 +1,5 @@
-#Try Your Luck
+# Try Your Luck
+
 this is our semester-1 php project.
 Developed BY
 1. Ratensh Singh
