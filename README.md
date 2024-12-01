@@ -2,6 +2,6 @@
 
 this is our semester-1 php project.
 Developed BY
-1. Ratensh Singh
-2. Amarjeet Shrma
+1. Ratnesh Singh
+2. Amarjeet Sharma
 3. Hiteshkumar
